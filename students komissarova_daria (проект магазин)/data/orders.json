@@ -1,0 +1,18 @@
+{
+  "cart": {
+    "items": [{"product_id": "P003", "qty": 2}, {"product_id": "P010", "qty": 0.35}, {"product_id": "P006", "qty": 1}],
+    "promo": "SALE10"
+  },
+  "orders": [
+    {
+      "id": 1,
+      "items": [{"product_id": "P001", "qty": 1, "price": 590, "line_total": 590}],
+      "subtotal": 590,
+      "discount": 0,
+      "total": 590,
+      "promo": null,
+      "status": "new"
+    }
+  ],
+  "next_order_id": 2
+}

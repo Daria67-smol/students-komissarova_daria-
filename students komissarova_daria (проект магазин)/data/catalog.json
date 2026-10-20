@@ -1,0 +1,15 @@
+{
+  "products": [
+    {"id": "P001", "type": "piece", "name": "Кружка", "category": "merch", "price": 590, "stock": 12},
+    {"id": "P003", "type": "piece", "name": "Кофе в зёрнах 250 г", "category": "coffee", "price": 790, "stock": 8},
+    {"id": "P010", "type": "weight", "name": "Чай улун (на развес)", "category": "tea", "price_per_kg": 2400, "min_kg": 0.1, "stock_kg": 3.5},
+    {"id": "P020", "type": "digital", "name": "Курс «Pytest за выходные»", "category": "courses", "price": 1990},
+    {"id": "P002", "type": "piece", "name": "Чай зелёный", "category": "drinks", "price": 150, "stock": 10},
+    {"id": "P004", "type": "weight", "name": "Сыр твёрдый", "category": "dairy", "price": 590, "min_kg": 0.1, "stock": 5},
+    {"id": "P005", "type": "digital", "name": "Ключ к подписке", "category": "protection", "price": 900},
+    {"id": "P006", "type": "piece", "name": "Кофе в зёрнах 150 г", "category": "coffee", "price": 650, "stock": 7},
+    {"id": "P007", "type": "weight", "name": "Мёд цветочный", "category": "sweets", "price": 420, "min_kg": 0.2, "stock": 4},
+    {"id": "P008", "type": "piece", "name": "Шоколад тёмный", "category": "sweets", "price": 220, "stock": 20}
+  ]
+}
+
