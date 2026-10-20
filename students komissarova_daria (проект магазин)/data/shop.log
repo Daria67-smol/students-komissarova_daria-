@@ -1,0 +1,441 @@
+[2026-10-17 21:03:24] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'dict' object has no attribute 'product_id'
+[2026-10-17 21:03:24] add_to_cart args=('P001', 100) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-17 21:03:24] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'dict' object has no attribute 'product_id'
+[2026-10-17 21:03:24] add_to_cart args=('P001', 1) kwargs={} status=ERROR: 'dict' object has no attribute 'product_id'
+[2026-10-17 21:10:42] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'dict' object has no attribute 'product_id'
+[2026-10-17 21:12:27] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 21:13:34] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'ShopService' object has no attribute 'cart_items'
+[2026-10-17 21:14:12] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'ShopService' object has no attribute 'cart_items'
+[2026-10-17 21:14:12] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'ShopService' object has no attribute 'cart_items'
+[2026-10-17 21:14:12] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'ShopService' object has no attribute 'cart_items'
+[2026-10-17 21:16:58] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 21:16:58] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 21:16:58] set_cart_item args=('P001', 5) kwargs={} status=SUCCESS
+[2026-10-17 21:16:58] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 21:16:58] remove_from_cart args=('P001',) kwargs={} status=SUCCESS
+[2026-10-17 21:18:02] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 21:18:02] checkout args=() kwargs={} status=ERROR: Корзина пуста, нельзя оформить заказ.
+[2026-10-17 21:18:02] add_to_cart args=('P001', 100) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-17 21:18:02] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 21:18:02] checkout args=() kwargs={} status=ERROR: Корзина пуста, нельзя оформить заказ.
+[2026-10-17 21:18:02] add_to_cart args=('P001', 1) kwargs={} status=SUCCESS
+[2026-10-17 21:18:02] checkout args=() kwargs={} status=ERROR: Корзина пуста, нельзя оформить заказ.
+[2026-10-17 21:19:43] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 21:19:43] checkout args=() kwargs={} status=ERROR: Корзина пуста, нельзя оформить заказ.
+[2026-10-17 21:19:43] add_to_cart args=('P001', 100) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-17 21:19:43] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 21:19:43] checkout args=() kwargs={} status=ERROR: Корзина пуста, нельзя оформить заказ.
+[2026-10-17 21:19:43] add_to_cart args=('P001', 1) kwargs={} status=SUCCESS
+[2026-10-17 21:19:43] checkout args=() kwargs={} status=ERROR: Корзина пуста, нельзя оформить заказ.
+[2026-10-17 21:20:23] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 21:20:23] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 21:20:23] set_cart_item args=('P001', 5) kwargs={} status=SUCCESS
+[2026-10-17 21:20:23] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 21:20:23] remove_from_cart args=('P001',) kwargs={} status=SUCCESS
+[2026-10-17 21:20:33] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 21:20:33] checkout args=() kwargs={} status=ERROR: Корзина пуста, нельзя оформить заказ.
+[2026-10-17 21:20:33] add_to_cart args=('P001', 100) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-17 21:20:33] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 21:20:33] checkout args=() kwargs={} status=ERROR: Корзина пуста, нельзя оформить заказ.
+[2026-10-17 21:20:34] add_to_cart args=('P001', 1) kwargs={} status=SUCCESS
+[2026-10-17 21:20:34] checkout args=() kwargs={} status=ERROR: Корзина пуста, нельзя оформить заказ.
+[2026-10-17 21:23:58] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'str' object has no attribute 'check_qty'
+[2026-10-17 21:23:58] add_to_cart args=('P001', 100) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-17 21:23:58] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'str' object has no attribute 'check_qty'
+[2026-10-17 21:23:58] add_to_cart args=('P001', 1) kwargs={} status=ERROR: 'str' object has no attribute 'check_qty'
+[2026-10-17 21:25:21] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'str' object has no attribute 'check_qty'
+[2026-10-17 21:25:21] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'str' object has no attribute 'check_qty'
+[2026-10-17 21:25:21] add_to_cart args=('P001', 1) kwargs={} status=ERROR: 'str' object has no attribute 'check_qty'
+[2026-10-17 21:26:31] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'str' object has no attribute 'check_qty'
+[2026-10-17 21:26:31] add_to_cart args=('P001', 100) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-17 21:26:31] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'str' object has no attribute 'check_qty'
+[2026-10-17 21:26:31] add_to_cart args=('P001', 1) kwargs={} status=ERROR: 'str' object has no attribute 'check_qty'
+[2026-10-17 21:28:47] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 21:28:47] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 21:28:47] add_to_cart args=('P001', 100) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-17 21:28:47] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 21:28:47] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 21:28:47] add_to_cart args=('P001', 1) kwargs={} status=SUCCESS
+[2026-10-17 21:28:47] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 21:34:37] add_to_cart args=('P001', 2) kwargs={} status=ERROR: Товар <shop.products.PieceProduct object at 0x000001541CDB0EC0> не найден.
+[2026-10-17 21:34:37] add_to_cart args=('P001', 100) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-17 21:34:37] add_to_cart args=('P001', 2) kwargs={} status=ERROR: Товар <shop.products.PieceProduct object at 0x000001541CD46D50> не найден.
+[2026-10-17 21:34:37] add_to_cart args=('P001', 1) kwargs={} status=ERROR: Товар <shop.products.PieceProduct object at 0x000001541B228770> не найден.
+[2026-10-17 21:34:48] add_to_cart args=('P001', 2) kwargs={} status=ERROR: Товар <shop.products.PieceProduct object at 0x00000199B84F8EC0> не найден.
+[2026-10-17 21:34:48] add_to_cart args=('P001', 100) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-17 21:34:48] add_to_cart args=('P001', 2) kwargs={} status=ERROR: Товар <shop.products.PieceProduct object at 0x00000199B8496D50> не найден.
+[2026-10-17 21:34:48] add_to_cart args=('P001', 1) kwargs={} status=ERROR: Товар <shop.products.PieceProduct object at 0x00000199B6928770> не найден.
+[2026-10-17 21:35:09] add_to_cart args=('P001', 2) kwargs={} status=ERROR: Товар <shop.products.PieceProduct object at 0x000002CB24CD8EC0> не найден.
+[2026-10-17 21:35:09] add_to_cart args=('P001', 2) kwargs={} status=ERROR: Товар <shop.products.PieceProduct object at 0x000002CB24C72850> не найден.
+[2026-10-17 21:35:09] add_to_cart args=('P001', 2) kwargs={} status=ERROR: Товар <shop.products.PieceProduct object at 0x000002CB23100690> не найден.
+[2026-10-17 21:36:06] add_to_cart args=('P001', 2) kwargs={} status=ERROR: Товар <shop.products.PieceProduct object at 0x000001729C3F8EC0> не найден.
+[2026-10-17 21:36:06] add_to_cart args=('P001', 2) kwargs={} status=ERROR: Товар <shop.products.PieceProduct object at 0x000001729C392850> не найден.
+[2026-10-17 21:36:06] add_to_cart args=('P001', 2) kwargs={} status=ERROR: Товар <shop.products.PieceProduct object at 0x000001729A820690> не найден.
+[2026-10-17 21:37:11] add_to_cart args=('P001', 2) kwargs={} status=ERROR: Товар <shop.products.PieceProduct object at 0x000001D1964F8EC0> не найден.
+[2026-10-17 21:37:11] add_to_cart args=('P001', 2) kwargs={} status=ERROR: Товар <shop.products.PieceProduct object at 0x000001D194920410> не найден.
+[2026-10-17 21:37:11] add_to_cart args=('P001', 2) kwargs={} status=ERROR: Товар <shop.products.PieceProduct object at 0x000001D196491E50> не найден.
+[2026-10-17 21:39:38] add_to_cart args=('P001', 2) kwargs={} status=ERROR: Товар <shop.products.PieceProduct object at 0x000001DC11889010> не найден.
+[2026-10-17 21:39:38] add_to_cart args=('P001', 2) kwargs={} status=ERROR: Товар <shop.products.PieceProduct object at 0x000001DC11822850> не найден.
+[2026-10-17 21:39:38] add_to_cart args=('P001', 2) kwargs={} status=ERROR: Товар <shop.products.PieceProduct object at 0x000001DC0FCB0690> не найден.
+[2026-10-17 21:41:30] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 21:41:30] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 21:41:30] set_cart_item args=('P001', 5) kwargs={} status=SUCCESS
+[2026-10-17 21:41:30] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 21:41:30] remove_from_cart args=('P001',) kwargs={} status=SUCCESS
+[2026-10-17 21:43:09] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 21:43:09] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 21:43:09] set_cart_item args=('P001', 5) kwargs={} status=SUCCESS
+[2026-10-17 21:43:09] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 21:43:09] remove_from_cart args=('P001',) kwargs={} status=SUCCESS
+[2026-10-17 21:44:22] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 21:44:22] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 21:44:22] set_cart_item args=('P001', 5) kwargs={} status=SUCCESS
+[2026-10-17 21:44:22] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 21:44:22] remove_from_cart args=('P001',) kwargs={} status=SUCCESS
+[2026-10-17 21:47:29] add_to_cart args=('P8', 2) kwargs={} status=SUCCESS
+[2026-10-17 21:47:29] add_to_cart args=('W3', 0.5) kwargs={} status=SUCCESS
+[2026-10-17 21:47:29] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 21:47:29] add_to_cart args=('P9', 5) kwargs={} status=ERROR: Недостаточно товара Редкая кружка на складе.
+[2026-10-17 21:47:29] add_to_cart args=('P10', 3) kwargs={} status=SUCCESS
+[2026-10-17 21:47:29] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 21:53:05] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 21:53:05] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 21:53:05] add_to_cart args=('P001', 100) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-17 21:53:05] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 21:53:05] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 21:53:05] add_to_cart args=('P001', 1) kwargs={} status=SUCCESS
+[2026-10-17 21:53:05] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 22:20:58] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'Cart' object has no attribute 'promo'
+[2026-10-17 22:20:58] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'Cart' object has no attribute 'promo'
+[2026-10-17 22:20:58] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'Cart' object has no attribute 'promo'
+[2026-10-17 22:22:32] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'Cart' object has no attribute 'promo'
+[2026-10-17 22:22:32] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'Cart' object has no attribute 'promo'
+[2026-10-17 22:22:32] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'Cart' object has no attribute 'promo'
+[2026-10-17 22:23:06] add_to_cart args=('P8', 2) kwargs={} status=ERROR: 'Cart' object has no attribute 'promo'
+[2026-10-17 22:23:06] add_to_cart args=('P9', 5) kwargs={} status=ERROR: Недостаточно товара Редкая кружка на складе.
+[2026-10-17 22:23:06] add_to_cart args=('P10', 3) kwargs={} status=ERROR: 'Cart' object has no attribute 'promo'
+[2026-10-17 22:25:23] add_to_cart args=('P8', 2) kwargs={} status=ERROR: 'Cart' object has no attribute 'promo'
+[2026-10-17 22:25:23] add_to_cart args=('P9', 5) kwargs={} status=ERROR: Недостаточно товара Редкая кружка на складе.
+[2026-10-17 22:25:23] add_to_cart args=('P10', 3) kwargs={} status=ERROR: 'Cart' object has no attribute 'promo'
+[2026-10-17 22:25:23] checkout args=() kwargs={} status=ERROR: Корзина пуста, нельзя оформить заказ.
+[2026-10-17 22:25:30] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'Cart' object has no attribute 'promo'
+[2026-10-17 22:25:30] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'Cart' object has no attribute 'promo'
+[2026-10-17 22:25:30] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'Cart' object has no attribute 'promo'
+[2026-10-17 22:27:18] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'Cart' object has no attribute 'promo'
+[2026-10-17 22:27:18] add_to_cart args=('P001', 100) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-17 22:27:18] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'Cart' object has no attribute 'promo'
+[2026-10-17 22:27:18] add_to_cart args=('P001', 1) kwargs={} status=ERROR: 'Cart' object has no attribute 'promo'
+[2026-10-17 22:28:12] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'Cart' object has no attribute 'promo'
+[2026-10-17 22:28:12] add_to_cart args=('P001', 11) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-17 22:28:12] add_to_cart args=('P001', 10) kwargs={} status=ERROR: 'Cart' object has no attribute 'promo'
+[2026-10-17 22:28:12] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'Cart' object has no attribute 'promo'
+[2026-10-17 22:28:12] add_to_cart args=('P001', 1) kwargs={} status=ERROR: 'Cart' object has no attribute 'promo'
+[2026-10-17 22:30:25] add_to_cart args=('P8', 2) kwargs={} status=ERROR: 'Cart' object has no attribute 'promo'
+[2026-10-17 22:30:25] add_to_cart args=('P9', 5) kwargs={} status=ERROR: Недостаточно товара Редкая кружка на складе.
+[2026-10-17 22:30:25] add_to_cart args=('P10', 3) kwargs={} status=ERROR: 'Cart' object has no attribute 'promo'
+[2026-10-17 22:30:25] checkout args=() kwargs={} status=ERROR: Корзина пуста, нельзя оформить заказ.
+[2026-10-17 22:40:48] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'Cart' object has no attribute 'items'
+[2026-10-17 22:40:48] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'Cart' object has no attribute 'items'
+[2026-10-17 22:40:48] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'Cart' object has no attribute 'items'
+[2026-10-17 22:47:17] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'Cart' object has no attribute 'items'
+[2026-10-17 22:47:18] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'Cart' object has no attribute 'items'
+[2026-10-17 22:47:18] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'Cart' object has no attribute 'items'
+[2026-10-17 22:49:16] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'Cart' object has no attribute 'items'
+[2026-10-17 22:49:16] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'Cart' object has no attribute 'items'
+[2026-10-17 22:49:16] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'Cart' object has no attribute 'items'
+[2026-10-17 22:50:38] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'Cart' object has no attribute 'items'
+[2026-10-17 22:50:38] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'Cart' object has no attribute 'items'
+[2026-10-17 22:50:38] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'Cart' object has no attribute 'items'
+[2026-10-17 22:51:04] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'Cart' object has no attribute 'items'
+[2026-10-17 22:51:04] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'Cart' object has no attribute 'items'
+[2026-10-17 22:51:04] add_to_cart args=('P001', 2) kwargs={} status=ERROR: 'Cart' object has no attribute 'items'
+[2026-10-17 22:53:34] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 22:53:34] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 22:53:34] set_cart_item args=('P001', 5) kwargs={} status=SUCCESS
+[2026-10-17 22:53:34] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 22:53:34] remove_from_cart args=('P001',) kwargs={} status=SUCCESS
+[2026-10-17 22:53:59] add_to_cart args=('P8', 2) kwargs={} status=SUCCESS
+[2026-10-17 22:53:59] add_to_cart args=('W3', 0.5) kwargs={} status=SUCCESS
+[2026-10-17 22:53:59] checkout args=() kwargs={} status=ERROR: Cannot instantiate typing.Literal
+[2026-10-17 22:53:59] add_to_cart args=('P9', 5) kwargs={} status=ERROR: Недостаточно товара Редкая кружка на складе.
+[2026-10-17 22:53:59] add_to_cart args=('P10', 3) kwargs={} status=SUCCESS
+[2026-10-17 22:53:59] checkout args=() kwargs={} status=ERROR: Cannot instantiate typing.Literal
+[2026-10-17 22:53:59] checkout args=() kwargs={} status=ERROR: Корзина пуста, нельзя оформить заказ.
+[2026-10-17 23:00:24] add_to_cart args=('P8', 2) kwargs={} status=SUCCESS
+[2026-10-17 23:00:24] add_to_cart args=('W3', 0.5) kwargs={} status=SUCCESS
+[2026-10-17 23:00:24] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:00:24] add_to_cart args=('P9', 5) kwargs={} status=ERROR: Недостаточно товара Редкая кружка на складе.
+[2026-10-17 23:00:24] add_to_cart args=('P10', 3) kwargs={} status=SUCCESS
+[2026-10-17 23:00:24] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:00:24] checkout args=() kwargs={} status=ERROR: Корзина пуста, нельзя оформить заказ.
+[2026-10-17 23:02:15] add_to_cart args=('P8', 2) kwargs={} status=SUCCESS
+[2026-10-17 23:02:15] add_to_cart args=('W3', 0.5) kwargs={} status=SUCCESS
+[2026-10-17 23:02:15] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:02:15] add_to_cart args=('P9', 5) kwargs={} status=ERROR: Недостаточно товара Редкая кружка на складе.
+[2026-10-17 23:02:15] add_to_cart args=('P10', 3) kwargs={} status=SUCCESS
+[2026-10-17 23:02:15] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:02:15] checkout args=() kwargs={} status=ERROR: Корзина пуста, нельзя оформить заказ.
+[2026-10-17 23:03:28] add_to_cart args=('P8', 2) kwargs={} status=SUCCESS
+[2026-10-17 23:03:28] add_to_cart args=('W3', 0.5) kwargs={} status=SUCCESS
+[2026-10-17 23:03:28] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:03:28] add_to_cart args=('P9', 5) kwargs={} status=ERROR: Недостаточно товара Редкая кружка на складе.
+[2026-10-17 23:03:28] add_to_cart args=('P10', 3) kwargs={} status=SUCCESS
+[2026-10-17 23:03:28] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:03:28] checkout args=() kwargs={} status=ERROR: Корзина пуста, нельзя оформить заказ.
+[2026-10-17 23:04:07] add_to_cart args=('P8', 2) kwargs={} status=SUCCESS
+[2026-10-17 23:04:07] add_to_cart args=('W3', 0.5) kwargs={} status=SUCCESS
+[2026-10-17 23:04:07] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:04:07] add_to_cart args=('P9', 5) kwargs={} status=ERROR: Недостаточно товара Редкая кружка на складе.
+[2026-10-17 23:04:07] add_to_cart args=('P10', 3) kwargs={} status=SUCCESS
+[2026-10-17 23:04:07] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:04:07] checkout args=() kwargs={} status=ERROR: Корзина пуста, нельзя оформить заказ.
+[2026-10-17 23:04:19] add_to_cart args=('P8', 2) kwargs={} status=SUCCESS
+[2026-10-17 23:04:19] add_to_cart args=('W3', 0.5) kwargs={} status=SUCCESS
+[2026-10-17 23:04:19] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:04:19] add_to_cart args=('P9', 5) kwargs={} status=ERROR: Недостаточно товара Редкая кружка на складе.
+[2026-10-17 23:04:19] add_to_cart args=('P10', 3) kwargs={} status=SUCCESS
+[2026-10-17 23:04:19] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:04:19] checkout args=() kwargs={} status=ERROR: Корзина пуста, нельзя оформить заказ.
+[2026-10-17 23:04:27] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 23:04:27] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:04:27] add_to_cart args=('P001', 11) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-17 23:04:27] add_to_cart args=('P001', 10) kwargs={} status=SUCCESS
+[2026-10-17 23:04:27] add_to_cart args=('P001', 1) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-17 23:04:27] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 23:04:27] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:04:27] add_to_cart args=('P001', 1) kwargs={} status=SUCCESS
+[2026-10-17 23:04:27] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:28:41] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 23:28:41] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 23:28:41] set_cart_item args=('P001', 5) kwargs={} status=SUCCESS
+[2026-10-17 23:28:41] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 23:28:41] remove_from_cart args=('P001',) kwargs={} status=SUCCESS
+[2026-10-17 23:34:07] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 23:34:07] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:34:07] add_to_cart args=('P001', 11) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-17 23:34:07] add_to_cart args=('P001', 10) kwargs={} status=SUCCESS
+[2026-10-17 23:34:07] add_to_cart args=('P001', 1) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-17 23:34:07] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 23:34:07] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:34:07] add_to_cart args=('P001', 1) kwargs={} status=SUCCESS
+[2026-10-17 23:34:07] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:38:45] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 23:38:45] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 23:38:45] set_cart_item args=('P001', 5) kwargs={} status=SUCCESS
+[2026-10-17 23:38:45] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 23:38:45] remove_from_cart args=('P001',) kwargs={} status=SUCCESS
+[2026-10-17 23:39:11] add_to_cart args=('P8', 2) kwargs={} status=SUCCESS
+[2026-10-17 23:39:11] add_to_cart args=('W3', 0.5) kwargs={} status=SUCCESS
+[2026-10-17 23:39:11] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:39:11] add_to_cart args=('P9', 5) kwargs={} status=ERROR: Недостаточно товара Редкая кружка на складе.
+[2026-10-17 23:39:11] add_to_cart args=('P10', 3) kwargs={} status=SUCCESS
+[2026-10-17 23:39:11] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:39:11] checkout args=() kwargs={} status=ERROR: Корзина пуста, нельзя оформить заказ.
+[2026-10-17 23:40:52] add_to_cart args=('P8', 2) kwargs={} status=SUCCESS
+[2026-10-17 23:40:52] add_to_cart args=('W3', 0.5) kwargs={} status=SUCCESS
+[2026-10-17 23:40:52] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:40:52] add_to_cart args=('P9', 5) kwargs={} status=ERROR: Недостаточно товара Редкая кружка на складе.
+[2026-10-17 23:40:52] add_to_cart args=('P10', 3) kwargs={} status=SUCCESS
+[2026-10-17 23:40:52] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:40:52] checkout args=() kwargs={} status=ERROR: Корзина пуста, нельзя оформить заказ.
+[2026-10-17 23:43:11] add_to_cart args=('P8', 2) kwargs={} status=SUCCESS
+[2026-10-17 23:43:11] add_to_cart args=('W3', 0.5) kwargs={} status=SUCCESS
+[2026-10-17 23:43:11] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:43:12] add_to_cart args=('P9', 5) kwargs={} status=ERROR: Недостаточно товара Редкая кружка на складе.
+[2026-10-17 23:43:12] add_to_cart args=('P10', 3) kwargs={} status=SUCCESS
+[2026-10-17 23:43:12] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:43:12] checkout args=() kwargs={} status=ERROR: Корзина пуста, нельзя оформить заказ.
+[2026-10-17 23:49:17] add_to_cart args=('P8', 2) kwargs={} status=SUCCESS
+[2026-10-17 23:49:17] add_to_cart args=('W3', 0.5) kwargs={} status=SUCCESS
+[2026-10-17 23:49:17] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:49:17] add_to_cart args=('P9', 5) kwargs={} status=ERROR: Недостаточно товара Редкая кружка на складе.
+[2026-10-17 23:49:17] add_to_cart args=('P10', 3) kwargs={} status=SUCCESS
+[2026-10-17 23:49:17] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:49:18] checkout args=() kwargs={} status=ERROR: Корзина пуста, нельзя оформить заказ.
+[2026-10-17 23:49:26] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 23:49:26] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:49:27] add_to_cart args=('P001', 11) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-17 23:49:27] add_to_cart args=('P001', 10) kwargs={} status=SUCCESS
+[2026-10-17 23:49:27] add_to_cart args=('P001', 1) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-17 23:49:27] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 23:49:27] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:49:27] add_to_cart args=('P001', 1) kwargs={} status=SUCCESS
+[2026-10-17 23:49:27] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:51:07] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 23:51:07] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:51:07] add_to_cart args=('P001', 11) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-17 23:51:07] add_to_cart args=('P001', 10) kwargs={} status=SUCCESS
+[2026-10-17 23:51:07] add_to_cart args=('P001', 1) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-17 23:51:07] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 23:51:07] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:51:08] add_to_cart args=('P001', 1) kwargs={} status=SUCCESS
+[2026-10-17 23:51:08] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:51:47] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 23:51:47] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:51:47] add_to_cart args=('P001', 11) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-17 23:51:47] add_to_cart args=('P001', 10) kwargs={} status=SUCCESS
+[2026-10-17 23:51:47] add_to_cart args=('P001', 1) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-17 23:51:47] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 23:51:47] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:51:47] add_to_cart args=('P001', 1) kwargs={} status=SUCCESS
+[2026-10-17 23:51:47] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:52:14] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 23:52:14] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:52:14] add_to_cart args=('P001', 11) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-17 23:52:14] add_to_cart args=('P001', 10) kwargs={} status=SUCCESS
+[2026-10-17 23:52:14] add_to_cart args=('P001', 1) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-17 23:52:14] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-17 23:52:14] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:52:14] add_to_cart args=('P001', 1) kwargs={} status=SUCCESS
+[2026-10-17 23:52:14] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:53:58] add_to_cart args=('P8', 2) kwargs={} status=SUCCESS
+[2026-10-17 23:53:58] add_to_cart args=('W3', 0.5) kwargs={} status=SUCCESS
+[2026-10-17 23:53:58] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:53:58] add_to_cart args=('P9', 5) kwargs={} status=ERROR: Недостаточно товара Редкая кружка на складе.
+[2026-10-17 23:53:58] add_to_cart args=('P10', 3) kwargs={} status=SUCCESS
+[2026-10-17 23:53:58] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-17 23:53:58] checkout args=() kwargs={} status=ERROR: Корзина пуста, нельзя оформить заказ.
+[2026-10-18 00:10:59] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:10:59] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:10:59] set_cart_item args=('P001', 5) kwargs={} status=SUCCESS
+[2026-10-18 00:10:59] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:10:59] remove_from_cart args=('P001',) kwargs={} status=SUCCESS
+[2026-10-18 00:11:27] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:11:27] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 00:11:28] add_to_cart args=('P001', 11) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-18 00:11:28] add_to_cart args=('P001', 10) kwargs={} status=SUCCESS
+[2026-10-18 00:11:28] add_to_cart args=('P001', 1) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-18 00:11:28] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:11:28] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 00:11:28] add_to_cart args=('P001', 1) kwargs={} status=SUCCESS
+[2026-10-18 00:11:28] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 00:12:14] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:12:14] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:12:14] set_cart_item args=('P001', 5) kwargs={} status=SUCCESS
+[2026-10-18 00:12:14] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:12:14] remove_from_cart args=('P001',) kwargs={} status=SUCCESS
+[2026-10-18 00:12:15] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:12:15] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 00:12:15] add_to_cart args=('P001', 11) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-18 00:12:15] add_to_cart args=('P001', 10) kwargs={} status=SUCCESS
+[2026-10-18 00:12:15] add_to_cart args=('P001', 1) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-18 00:12:15] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:12:15] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 00:12:15] add_to_cart args=('P001', 1) kwargs={} status=SUCCESS
+[2026-10-18 00:12:15] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 00:13:08] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:13:08] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:13:08] set_cart_item args=('P001', 5) kwargs={} status=SUCCESS
+[2026-10-18 00:13:08] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:13:08] remove_from_cart args=('P001',) kwargs={} status=SUCCESS
+[2026-10-18 00:13:08] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:13:08] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 00:13:08] add_to_cart args=('P001', 11) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-18 00:13:08] add_to_cart args=('P001', 10) kwargs={} status=SUCCESS
+[2026-10-18 00:13:08] add_to_cart args=('P001', 1) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-18 00:13:08] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:13:08] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 00:13:08] add_to_cart args=('P001', 1) kwargs={} status=SUCCESS
+[2026-10-18 00:13:08] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 00:27:53] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:27:53] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:27:53] set_cart_item args=('P001', 5) kwargs={} status=SUCCESS
+[2026-10-18 00:27:53] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:27:53] remove_from_cart args=('P001',) kwargs={} status=SUCCESS
+[2026-10-18 00:29:29] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:29:29] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:29:29] set_cart_item args=('P001', 5) kwargs={} status=SUCCESS
+[2026-10-18 00:29:29] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:29:29] remove_from_cart args=('P001',) kwargs={} status=SUCCESS
+[2026-10-18 00:38:15] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:38:15] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:38:15] set_cart_item args=('P001', 5) kwargs={} status=SUCCESS
+[2026-10-18 00:38:15] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:38:15] remove_from_cart args=('P001',) kwargs={} status=SUCCESS
+[2026-10-18 00:41:55] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:41:55] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 00:41:56] add_to_cart args=('P001', 11) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-18 00:41:56] add_to_cart args=('P001', 10) kwargs={} status=SUCCESS
+[2026-10-18 00:41:56] add_to_cart args=('P001', 1) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-18 00:41:56] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:41:56] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 00:41:56] add_to_cart args=('P001', 1) kwargs={} status=SUCCESS
+[2026-10-18 00:41:56] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 00:42:41] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:42:41] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 00:42:41] add_to_cart args=('P001', 11) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-18 00:42:41] add_to_cart args=('P001', 10) kwargs={} status=SUCCESS
+[2026-10-18 00:42:41] add_to_cart args=('P001', 1) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-18 00:42:41] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:42:41] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 00:42:42] add_to_cart args=('P001', 1) kwargs={} status=SUCCESS
+[2026-10-18 00:42:42] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 00:42:49] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:42:49] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 00:42:49] add_to_cart args=('P001', 11) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-18 00:42:49] add_to_cart args=('P001', 10) kwargs={} status=SUCCESS
+[2026-10-18 00:42:49] add_to_cart args=('P001', 1) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-18 00:42:49] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:42:49] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 00:42:49] add_to_cart args=('P001', 1) kwargs={} status=SUCCESS
+[2026-10-18 00:42:49] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 00:43:03] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:43:03] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 00:43:03] add_to_cart args=('P001', 11) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-18 00:43:03] add_to_cart args=('P001', 10) kwargs={} status=SUCCESS
+[2026-10-18 00:43:03] add_to_cart args=('P001', 1) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-18 00:43:03] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:43:03] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 00:43:03] add_to_cart args=('P001', 1) kwargs={} status=SUCCESS
+[2026-10-18 00:43:03] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 00:43:43] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:43:43] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:43:43] set_cart_item args=('P001', 5) kwargs={} status=SUCCESS
+[2026-10-18 00:43:43] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:43:43] remove_from_cart args=('P001',) kwargs={} status=SUCCESS
+[2026-10-18 00:43:43] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:43:43] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 00:43:43] add_to_cart args=('P001', 11) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-18 00:43:43] add_to_cart args=('P001', 10) kwargs={} status=SUCCESS
+[2026-10-18 00:43:43] add_to_cart args=('P001', 1) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-18 00:43:43] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:43:43] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 00:43:43] add_to_cart args=('P001', 1) kwargs={} status=SUCCESS
+[2026-10-18 00:43:43] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 00:44:08] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:44:08] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 00:44:08] add_to_cart args=('P001', 11) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-18 00:44:08] add_to_cart args=('P001', 10) kwargs={} status=SUCCESS
+[2026-10-18 00:44:08] add_to_cart args=('P001', 1) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-18 00:44:08] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:44:08] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 00:44:08] add_to_cart args=('P001', 1) kwargs={} status=SUCCESS
+[2026-10-18 00:44:08] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 00:50:41] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:50:41] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:50:41] set_cart_item args=('P001', 5) kwargs={} status=SUCCESS
+[2026-10-18 00:50:41] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:50:41] remove_from_cart args=('P001',) kwargs={} status=SUCCESS
+[2026-10-18 00:50:41] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:50:41] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 00:50:42] add_to_cart args=('P001', 11) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-18 00:50:42] add_to_cart args=('P001', 10) kwargs={} status=SUCCESS
+[2026-10-18 00:50:42] add_to_cart args=('P001', 1) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-18 00:50:42] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 00:50:42] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 00:50:42] add_to_cart args=('P001', 1) kwargs={} status=SUCCESS
+[2026-10-18 00:50:42] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 15:31:17] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 15:31:17] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 15:31:17] set_cart_item args=('P001', 5) kwargs={} status=SUCCESS
+[2026-10-18 15:31:17] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 15:31:17] remove_from_cart args=('P001',) kwargs={} status=SUCCESS
+[2026-10-18 15:31:18] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 15:31:18] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 15:31:18] add_to_cart args=('P001', 11) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-18 15:31:18] add_to_cart args=('P001', 10) kwargs={} status=SUCCESS
+[2026-10-18 15:31:18] add_to_cart args=('P001', 1) kwargs={} status=ERROR: Недостаточно товара Кружка на складе.
+[2026-10-18 15:31:18] add_to_cart args=('P001', 2) kwargs={} status=SUCCESS
+[2026-10-18 15:31:18] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
+[2026-10-18 15:31:18] add_to_cart args=('P001', 1) kwargs={} status=SUCCESS
+[2026-10-18 15:31:18] checkout args=() kwargs={} status=ERROR: Object of type Decimal is not JSON serializable
